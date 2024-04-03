@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [malik siawish](https://www.linkedin.com/in/hafiz-malik-muhammad-siawish-63821025b).
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Siawish](https://www.linkedin.com/in/hafiz-malik-muhammad-siawish-63821025b).
 
 
 - 💬 Ask me about [Cpp](https://isocpp.org/) and [Data Structures](https://en.wikipedia.org/wiki/Data_structure)
@@ -10,10 +10,9 @@
 <a href="https://www.instagram.com/cyb3r.s4a9i7h?igsh=amF6MXVpdmwxd3Z4">
   <img align="left" alt="Siawish's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
 </a>
-<!-- <a href="https://www.fiverr.com/siawish">
+ <a href="https://www.fiverr.com/siawish">
   <img align="left" alt="Siawish's Fiverr" width="22px" src="https://avatars.githubusercontent.com/u/807499?s=200&v=4" /> -->
-<a href="https://www.upwork.com/freelancers/~015eef91e241638c4d">
-  <img align="left" alt="Siawish's Upwork" width="22px" src="https://commons.wikimedia.org/wiki/File:Upwork.png#/media/File:Upwork.png" />
+
 
 <a href="https://leetcode.com/Siawish/">
   <img align="left" alt="Siawish's Leetcode" width="22px" src="https://raw.githubusercontent.com/preethamb97/preethamb97/main/leetcode.png" />
