@@ -27,7 +27,6 @@
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siawish&theme=prussian&show_icons=true&hide_border=false&count_private=true" alt="siawish" />
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siawish&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="siawish" />
